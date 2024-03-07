@@ -1,0 +1,22 @@
+% You can use ABSOLUTE (ex. C:/users) or RELATIVE (ex. ./) path.
+% It does not matter if there is / or not at the end of path.
+
+% Supported Extensions: 
+exe : ./apps/
+msi : ./apps/
+txt : ./texts/
+pdf : ./texts/
+docx : ./texts/
+jpg : ./photos/
+png : ./photos/
+gif : ./photos/
+mp4 : ./videos/
+mp3 : ./audio/
+
+% Exclusions:
+exclude : configure.py
+exclude : main.py
+exclude : organizer.py
+exclude : help_functions.py
+exclude : consts.py
+exclude : config.txt
