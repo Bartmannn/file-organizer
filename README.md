@@ -1,9 +1,9 @@
 # file-organizer
 
-Prosty terminalowy program do zarządzania plikami w komputerze.
+Terminalowy program do zarządzania plikami w komputerze.
 
 ## Demo
-![Demo](./file-organizer-demo-opt.gif)
+![Demo](./file-organizer-demo.gif)
 
 ## Funkcje
 - Porządkowanie danego katalogu.
